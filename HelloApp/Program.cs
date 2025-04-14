@@ -15,6 +15,7 @@ partial class Program
         // DayOfLife1();
         // DayOfLife2();
         // DayOfLife3();
-        TypeDifference();
+        // TypeDifference();
+        HandleNullables();
     }
 }
