@@ -17,6 +17,7 @@ partial class Program
         // DayOfLife3();
         // TypeDifference();
         // HandleNullables();
-        Operators();
+        // Operators();
+        Arrays();
     }
 }
