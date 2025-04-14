@@ -14,6 +14,7 @@ partial class Program
         // ShowTime();
         // DayOfLife1();
         // DayOfLife2();
-        DayOfLife3();
+        // DayOfLife3();
+        TypeDifference();
     }
 }
