@@ -19,6 +19,7 @@ partial class Program
         // HandleNullables();
         // Operators();
         // Arrays();
-        InventoryManager();
+        // InventoryManager();
+        InventoryManagerSolution1();
     }
 }
