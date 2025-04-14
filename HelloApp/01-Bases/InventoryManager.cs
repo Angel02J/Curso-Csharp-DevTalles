@@ -22,9 +22,9 @@ partial class Program
 
         for(int i = 0; i < products.Length; i++)
         {
-            if(products[i].Equals(searchedProduct, StringComparison.OrdinalIgnoreCase))
+            if(products[i].Equals(searchedProduct, StringComparison.OrdinalIgnoreCase)) //Compara lo que ingreso el usuario con el lo que hay en el arreglo
             {
-                if(quantity <= stock[i])
+                if(quantity <= stock[i]) //Si la cantidad que ingreso el usuario es menor o igual al limite del stock del producto, se cumple la condicion
                 {
                     double total = quantity * prices[i];
                     Console.WriteLine($"Compra exitosa. El total a pagar: {total}");
