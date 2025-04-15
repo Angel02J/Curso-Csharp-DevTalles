@@ -21,6 +21,7 @@ partial class Program
         // Arrays();
         // InventoryManager();
         // InventoryManagerSolution1();
-        InventoryManagerSolution2();
+        // InventoryManagerSolution2();
+        ListDictionary();
     }
 }
