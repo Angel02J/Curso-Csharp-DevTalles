@@ -24,6 +24,7 @@ partial class Program
         // InventoryManagerSolution2();
         // ListDictionary();
         // DataStructures();
-        Generics();
+        // Generics();
+        SumaDeNumeros();
     }
 }
