@@ -20,6 +20,7 @@ partial class Program
         // Operators();
         // Arrays();
         // InventoryManager();
-        InventoryManagerSolution1();
+        // InventoryManagerSolution1();
+        InventoryManagerSolution2();
     }
 }
