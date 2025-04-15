@@ -10,7 +10,7 @@ partial class Program
         Console.WriteLine($"Punto({punto.X}), {punto.Y}");
 
         CellPhone celular = new CellPhone("Samsung", 2022);
-        System.Console.WriteLine(celular);
+        Console.WriteLine(celular);
     }
 }
 
