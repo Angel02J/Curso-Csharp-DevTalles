@@ -27,6 +27,7 @@ partial class Program
         // Generics();
         // SumaDeNumeros();
         // MayorDeDosNumeros();
-        AreaTriangulo();
+        // AreaTriangulo();
+        Conditionals();
     }
 }
