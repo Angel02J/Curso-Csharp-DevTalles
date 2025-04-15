@@ -24,7 +24,7 @@ partial class Program
             {3, "Elena"}
         };
 
-        Console.WriteLine($"El estudiante con ID es: {students[1]}");
+        Console.WriteLine($"El estudiante con el ID 1 es: {students[1]}");
         foreach(var student in students)
         {
             Console.WriteLine($"Id: {student.Key}, Nombre: {student.Value}");
