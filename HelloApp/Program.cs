@@ -23,6 +23,7 @@ partial class Program
         // InventoryManagerSolution1();
         // InventoryManagerSolution2();
         // ListDictionary();
-        DataStructures();
+        // DataStructures();
+        Generics();
     }
 }
