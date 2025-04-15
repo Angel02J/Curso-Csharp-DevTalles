@@ -28,6 +28,7 @@ partial class Program
         // SumaDeNumeros();
         // MayorDeDosNumeros();
         // AreaTriangulo();
-        Conditionals();
+        // Conditionals();
+        Calculadora();
     }
 }
