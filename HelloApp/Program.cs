@@ -25,6 +25,7 @@ partial class Program
         // ListDictionary();
         // DataStructures();
         // Generics();
-        SumaDeNumeros();
+        // SumaDeNumeros();
+        MayorDeDosNumeros();
     }
 }
