@@ -26,6 +26,7 @@ partial class Program
         // DataStructures();
         // Generics();
         // SumaDeNumeros();
-        MayorDeDosNumeros();
+        // MayorDeDosNumeros();
+        AreaTriangulo();
     }
 }
