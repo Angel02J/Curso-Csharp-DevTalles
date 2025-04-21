@@ -19,5 +19,10 @@ partial class Program
             counter++;
         }
         while(number < 3);
+
+        for(int i = 0; i < 5; i++)
+        {
+            WriteLine($"Iteracción: {i}");
+        }
     }
 }
